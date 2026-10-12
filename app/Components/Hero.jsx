@@ -46,8 +46,8 @@ export const Hero = () => {
           </p>
 
           <div className="flex flex-wrap gap-4 pt-4">
-            <a href="/public/Hemachandran_Resume.pdf"
-            download
+            <a href="/Hemachandran_Resume.pdf"
+            download="Hemachandran_Resume.pdf"
             className="bg-red-500 hover:bg-red-600 transition px-8 py-4 rounded-2xl red-glow">
               Download Resume
             </a>
