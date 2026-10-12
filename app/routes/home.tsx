@@ -1,12 +1,12 @@
 import type { Route } from "./+types/home";
-import { Navbar } from "~/Components/Navbar";
-import { Hero } from "~/Components/Hero";
-import { About } from "~/Components/About";
-import { Skills } from "~/Components/Skills";
+import { Navbar } from "~/Components/Navbar.jsx";
+import { Hero } from "~/Components/Hero.jsx";
+import { About } from "~/Components/About.jsx";
+import { Skills } from "~/Components/Skills.jsx";
 // import { Projects } from "~/Components/Projects";
-import { Resume } from "~/Components/Resume";
-import { Contact } from "~/Components/Contact";
-import { Loader } from "~/Components/Loader";
+import { Resume } from "~/Components/Resume.jsx";
+import { Contact } from "~/Components/Contact.jsx";
+import { Loader } from "~/Components/Loader.jsx";
 
 export function meta({ }: Route.MetaArgs) {
   return [

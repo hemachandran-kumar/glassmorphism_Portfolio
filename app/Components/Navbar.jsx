@@ -159,8 +159,7 @@ export const Navbar = () => {
 
           <a
             href="/public/Hemachandran_Resume.pdf"
-            target="_blank"
-            rel="noopener noreferrer"
+            download
 
             className="
               hidden
