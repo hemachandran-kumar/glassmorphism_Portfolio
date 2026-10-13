@@ -158,8 +158,8 @@ export const Navbar = () => {
           {/* DESKTOP RESUME BUTTON */}
 
           <a
-            href="/Hemachandran_Resume.pdf"
-            download="Hemachandran_Resume.pdf"
+            href="/Hemachandran_Kumar.pdf"
+            download="Hemachandran_Kumar.pdf"
 
             className="
               hidden
@@ -275,8 +275,8 @@ export const Navbar = () => {
             {/* MOBILE RESUME BUTTON */}
 
             <a
-              href="/Hemachandran_Resume.pdf"
-            download="Hemachandran_Resume.pdf"
+              href="/Hemachandran_Kumar.pdf"
+            download="Hemachandran_Kumar.pdf"
 
               className="
                 mt-8
